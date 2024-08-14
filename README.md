@@ -87,7 +87,7 @@
             src="https://img.shields.io/badge/Facebook-XiaoMiao_ICa-0866ff?logo=facebook" /></a>
     <a href="https://www.instagram.com/xiaomiaoica"><img
             src="https://img.shields.io/badge/instagram-xiaomiaoica-ffbfb5?logo=instagram" /></a>
-    <a href="https://www.xiaomiao-ica.wiki/"><img
+    <a href="https://www.xiaomiao-ica.top/"><img
             src="https://img.shields.io/badge/苗萝缘莉雫-博客-9400D3?logo=" /></a>
 </p>
 
